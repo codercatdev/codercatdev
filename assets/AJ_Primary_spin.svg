@@ -1,40 +1,40 @@
-<svg id="e6peGIDCif91" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-    viewBox="0 0 500 500" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<svg id="ecMnSadsI0r1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 1500 500" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
     <style>
         <![CDATA[
-        #e6peGIDCif92_tr {
-            animation: e6peGIDCif92_tr__tr 1315.7894736842104ms linear infinite normal forwards
+        #ecMnSadsI0r42_tr {
+            animation: ecMnSadsI0r42_tr__tr 1000ms linear infinite normal forwards
         }
 
-        @keyframes e6peGIDCif92_tr__tr {
+        @keyframes ecMnSadsI0r42_tr__tr {
             0% {
-                transform: translate(236.661594px, 250px) rotate(0deg)
+                transform: translate(729.687312px, 224.090543px) rotate(0deg)
             }
 
             20% {
-                transform: translate(236.661594px, 250px) rotate(0deg)
+                transform: translate(729.687312px, 224.090543px) rotate(0deg)
             }
 
             50% {
-                transform: translate(236.661594px, 250px) rotate(360deg)
+                transform: translate(729.687312px, 224.090543px) rotate(360deg)
             }
 
             100% {
-                transform: translate(236.661594px, 250px) rotate(360deg)
+                transform: translate(729.687312px, 224.090543px) rotate(360deg)
             }
         }
 
-        #e6peGIDCif92_ts {
-            animation: e6peGIDCif92_ts__ts 1315.7894736842104ms linear infinite normal forwards
+        #ecMnSadsI0r42_ts {
+            animation: ecMnSadsI0r42_ts__ts 1000ms linear infinite normal forwards
         }
 
-        @keyframes e6peGIDCif92_ts__ts {
+        @keyframes ecMnSadsI0r42_ts__ts {
             0% {
-                transform: scale(0.5, 0.5)
+                transform: scale(0.34568, 0.339322)
             }
 
             20% {
-                transform: scale(0.4, 0.4)
+                transform: scale(0.3, 0.3)
             }
 
             50% {
@@ -42,13 +42,45 @@
             }
 
             100% {
-                transform: scale(0.5, 0.5)
+                transform: scale(0.4, 0.4)
             }
         }
         ]]>
     </style>
-    <g id="e6peGIDCif92_tr" transform="translate(236.661594,250) rotate(0)">
-        <g id="e6peGIDCif92_ts" transform="scale(0.5,0.5)">
+    <g transform="translate(0-1.406392)" clip-path="url(#ecMnSadsI0r40)">
+        <g>
+            <rect width="1500" height="500" rx="0" ry="0" transform="translate(0-1.007781)" fill="#762b9e" />
+            <path
+                d="M1285,268h4v11h-4v-11Zm10,0h4v11h-4v-11Zm-21-10l-9,9v32h10v9l9-9h7l16-16v-25h-33Zm30,23l-7,7h-7l-7,7v-7h-8v-26h29v19Z"
+                transform="translate(-1191.200322-76.333044)" fill="#fff" />
+            <rect width="1614.3" height="759.9" rx="0" ry="0"
+                transform="matrix(.798636-.601815 0.601815 0.798636 286.567408 622.00038)" fill="#5e1286" />
+            <path
+                d="M1286,328c-5.345538.095551-10.684164.429215-16,1l-5,3-3,5-1,6c-.331365,8.679487.002947,17.371606,1,26l3,5l5,3l6,1c8.679478.31603,17.370437-.018237,26-1l5-3l3-5l1-6c.29783-8.67945-.036386-17.369067-1-26l-3-5-5-3-6-1h-10Zm0,5c5.011851.121949,10.016313.455579,15,1l3,1l1,3l1,5l1,10-1,10-1,5-1,3-3,1-5,1c-8.346504.260168-16.700942-.074009-25-1l-3-1-2-3v-5l-1-10l1-10v-5l2-3l3-2h5l10-1v1Zm0,7c-7.179702,0-13,5.820298-13,13s5.820298,13,13,13s13-5.820298,13-13-5.820298-13-13-13Zm0,21c-4.418278,0-8-3.581722-8-8s3.581722-8,8-8s8,3.581722,8,8-3.581722,8-8,8Zm16-21c0,1.656854-1.343146,3-3,3s-3-1.343146-3-3s1.343146-3,3-3s3,1.343146,3,3Z"
+                transform="translate(-1191.190923-78.821127)" fill="#fff" />
+            <path
+                d="M1276,139l-1-1h-1v11h1l2-1v-5l-1-4Zm-15-11v30h50v-30h-50Zm18,22l-5,1h-3v-15h3c3,0,4,0,5,2l1,5-1,7Zm10-12h-5v4h3v3h-3v4h5v2h-7v-7-8h7v3-1Zm10,12l-2,1h-1l-2-5-2-7-1-3h3l3,10l1-5l2-5h3l-4,14Z"
+                transform="translate(-184.390768 82.946936)" fill="#fff" />
+            <path
+                d="M1299,75v-4l-4,2l4,2Zm2,3v1l-14,9c0,.552285-.447715,1-1,1s-1-.447715-1-1l-14-9v-11-1l14-9c0-.552285.447715-1,1-1s1,.447715,1,1l14,9v11Zm-15-30c-13.807119,0-25,11.192881-25,25s11.192881,25,25,25s25-11.192881,25-25-11.192881-25-25-25Zm0,22l-5,3l5,3l5-3-5-3Zm1,8v7l11-7-5-3-6,3Zm-13,0l11,7v-7l-6-3-5,3Zm24-10l-11-7v7l6,3l5-3Zm-13,0v-7l-11,7l5,3l6-3Zm-18,3l6,4l4-2-10-2Z"
+                transform="translate(-185.206094 83.666296)" fill="#fff" />
+            <g transform="translate(-184.604178 82.290915)" clip-path="url(#ecMnSadsI0r38)">
+                <g>
+                    <path
+                        d="M1311,198l-6,1c2-1,4-3,5-6-2,2-5,2-7,3-2.677815-3.644183-7.46804-5.037701-11.6828-3.398628s-6.804961,5.902757-6.3172,10.398628l1,2c-9,0-17-4-22-10l-1,5c0,3,2,6,5,8l-5-1c0,5,3,9,8,10-1.319726.269388-2.680274.269388-4,0c1,4,5,7,9,7-4.15766,3.55721-9.539546,5.351172-15,5c5,3,10,4,16,4c19,0,29-15,29-29v-1l5-5Z"
+                        transform="translate(-.601916 0)" fill="#fff" />
+                </g>
+                <clipPath id="ecMnSadsI0r38">
+                    <rect width="50" height="50" rx="0" ry="0" transform="translate(1261 188)" fill="#fff" />
+                </clipPath>
+            </g>
+        </g>
+        <clipPath id="ecMnSadsI0r40">
+            <rect width="1500" height="500" rx="0" ry="0" fill="#fff" />
+        </clipPath>
+    </g>
+    <g id="ecMnSadsI0r42_tr" transform="translate(729.687312,224.090543) rotate(0)">
+        <g id="ecMnSadsI0r42_ts" transform="scale(0.34568,0.339322)">
             <g transform="translate(-499.999511,-492.401794)">
                 <path
                     d="M697.831,853.021L594.086,956.336l-7.942-29.14L666.77,846.89l30.052,5.88c.342.063.678.147,1.009.251Z"
@@ -122,5 +154,81 @@
                     fill="#ffcdcf" />
             </g>
         </g>
+    </g><text dx="0" dy="0" font-family="&quot;ecMnSadsI0r1:::Nunito&quot;" font-size="50" font-weight="400"
+        transform="translate(148.880357 85.669053)" fill="#fff" stroke-width="0">
+        <tspan y="0" font-weight="400" stroke-width="0">
+            <![CDATA[CodingCatDev ]]>
+        </tspan>
+    </text><text dx="0" dy="0" font-family="&quot;ecMnSadsI0r1:::Nunito&quot;" font-size="50" font-weight="400"
+        transform="translate(142.853727 384.887148)" fill="#fff" stroke-width="0">
+        <tspan y="0" font-weight="400" stroke-width="0">
+            <![CDATA[PurrfectDev]]>
+        </tspan>
+    </text>
+    <g transform="translate(61.396337 374.947666)">
+        <g>
+            <path
+                d="M65.415906,6.64c-.781154-2.624889-3.041938-4.67169-5.931409-5.37C54.273214,0,33.389598,0,33.389598,0s-20.889113,0-26.089403,1.27c-2.880063.704195-5.129711,2.750396-5.903923,5.37C0,11.375,0,21.26,0,21.26s0,9.885,1.396272,14.62c.774212,2.619604,3.02386,4.665804,5.903923,5.37c5.205787,1.25,26.089403,1.25,26.089403,1.25s20.889113,0,26.094899-1.27c2.883906-.694727,5.143479-2.732812,5.931409-5.35c1.390775-4.735,1.390775-14.62,1.390775-14.62s-.027485-9.885-1.390775-14.62ZM26.710579,30.37v-18.22l17.354455,9.11Z"
+                transform="translate(0-28.290042)" fill="#fff" />
+        </g>
+    </g><text dx="0" dy="0" font-family="&quot;ecMnSadsI0r1:::Nunito&quot;" font-size="50" font-weight="400"
+        transform="translate(1153.352491 172.07628)" fill="#fff" stroke-width="0">
+        <tspan y="0" font-weight="400" stroke-width="0">
+            <![CDATA[codercatdev]]>
+        </tspan>
+    </text><text dx="0" dy="0" font-family="&quot;ecMnSadsI0r1:::Nunito&quot;" font-size="50" font-weight="400"
+        transform="translate(1151.318216 238.625324)" fill="#fff" stroke-width="0">
+        <tspan y="0" font-weight="400" stroke-width="0">
+            <![CDATA[codercatdev]]>
+        </tspan>
+    </text><text dx="0" dy="0" font-family="&quot;ecMnSadsI0r1:::Nunito&quot;" font-size="50" font-weight="400"
+        transform="translate(1151.318216 304.798892)" fill="#fff" stroke-width="0">
+        <tspan y="0" font-weight="400" stroke-width="0">
+            <![CDATA[codercatdev]]>
+        </tspan>
+    </text><text dx="0" dy="0" font-family="&quot;ecMnSadsI0r1:::Nunito&quot;" font-size="50" font-weight="400"
+        transform="translate(143.175815 152.415291)" fill="#fff" stroke-width="0">
+        <tspan y="0" font-weight="400" stroke-width="0">
+            <![CDATA[CodingCatDev ]]>
+        </tspan>
+    </text><text dx="0" dy="0" font-family="&quot;ecMnSadsI0r1:::Nunito&quot;" font-size="50" font-weight="400"
+        transform="translate(143.175815 439.424907)" fill="#fff" stroke-width="0">
+        <tspan y="0" font-weight="400" stroke-width="0">
+            <![CDATA[PurrfectDev]]>
+        </tspan>
+    </text>
+    <path
+        d="M1311,198l-6,1c2-1,4-3,5-6-2,2-5,2-7,3-2.677815-3.644183-7.46804-5.037701-11.6828-3.398628s-6.804961,5.902757-6.3172,10.398628l1,2c-9,0-17-4-22-10l-1,5c0,3,2,6,5,8l-5-1c0,5,3,9,8,10-1.319726.269388-2.680274.269388-4,0c1,4,5,7,9,7-4.15766,3.55721-9.539546,5.351172-15,5c5,3,10,4,16,4c19,0,29-15,29-29v-1l5-5Z"
+        transform="translate(-1193.577022 216.266676)" fill="#fff" />
+    <path
+        d="M1311,198l-6,1c2-1,4-3,5-6-2,2-5,2-7,3-2.677815-3.644183-7.46804-5.037701-11.6828-3.398628s-6.804961,5.902757-6.3172,10.398628l1,2c-9,0-17-4-22-10l-1,5c0,3,2,6,5,8l-5-1c0,5,3,9,8,10-1.319726.269388-2.680274.269388-4,0c1,4,5,7,9,7-4.15766,3.55721-9.539546,5.351172-15,5c5,3,10,4,16,4c19,0,29-15,29-29v-1l5-5Z"
+        transform="translate(-1193.577022-70.742936)" fill="#fff" /><text dx="0" dy="0"
+        font-family="&quot;ecMnSadsI0r1:::Nunito&quot;" font-size="50" font-weight="400"
+        transform="translate(143.743624 216.939022)" fill="#fff" stroke-width="0">
+        <tspan y="0" font-weight="400" stroke-width="0">
+            <![CDATA[codingcatdev]]>
+        </tspan>
+    </text><text dx="0" dy="0" font-family="&quot;ecMnSadsI0r1:::Nunito&quot;" font-size="50" font-weight="400"
+        transform="translate(143.175815 283.368465)" fill="#fff" stroke-width="0">
+        <tspan y="0" font-weight="400" stroke-width="0">
+            <![CDATA[codingcat.dev]]>
+        </tspan>
+    </text>
+    <g transform="translate(67.422978 75.729574)">
+        <g>
+            <path
+                d="M65.415906,6.64c-.781154-2.624889-3.041938-4.67169-5.931409-5.37C54.273214,0,33.389598,0,33.389598,0s-20.889113,0-26.089403,1.27c-2.880063.704195-5.129711,2.750396-5.903923,5.37C0,11.375,0,21.26,0,21.26s0,9.885,1.396272,14.62c.774212,2.619604,3.02386,4.665804,5.903923,5.37c5.205787,1.25,26.089403,1.25,26.089403,1.25s20.889113,0,26.094899-1.27c2.883906-.694727,5.143479-2.732812,5.931409-5.35c1.390775-4.735,1.390775-14.62,1.390775-14.62s-.027485-9.885-1.390775-14.62ZM26.710579,30.37v-18.22l17.354455,9.11Z"
+                transform="translate(0-28.290042)" fill="#fff" />
+        </g>
     </g>
+    <style>
+        <![CDATA[
+        @font-face {
+            font-family: 'ecMnSadsI0r1:::Nunito';
+            font-style: normal;
+            font-weight: 400;
+            src: url(data:font/ttf;charset=utf-8;base64,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) format('truetype');
+        }
+        ]]>
+    </style>
 </svg>
