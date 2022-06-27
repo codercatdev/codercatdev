@@ -2,7 +2,7 @@
 
 ### GitHub's List of things
 
-- 🔭 I’m currently working on SVGator Tutorial for [codingcat.dev](https://codingcat.dev)
+- 🔭 I’m currently working on JavaScript for a 10 Year Old for [codingcat.dev](https://codingcat.dev)
 - 🌱 I’m currently learning all about SVGs
 - 👯 I’m looking to collaborate on [purrfect.dev](https://purrfect.dev)
 - 🤔 I’m looking for help with content for [codingcat.dev](https://codingcat.dev)
