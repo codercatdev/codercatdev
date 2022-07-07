@@ -9,3 +9,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: [@codercatdev](https://twitter.com/codercatdev)
 - ⚡ Fun fact: I once found SAP comments about Star Wars in their source code.
+
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=codercatdev&show_icons=true&theme=radical)](https://codingcat.dev/authors/alex-patterson)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codercatdev&theme=radical)](https://codingcat.dev/authors/alex-patterson)
