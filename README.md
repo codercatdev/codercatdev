@@ -13,3 +13,7 @@
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=codercatdev&show_icons=true&theme=radical)](https://codingcat.dev/authors/alex-patterson)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codercatdev&theme=radical)](https://codingcat.dev/authors/alex-patterson)
+
+<a href="https://makers.appwrite.io/codercatdev">
+    <img src="https://appwrite.io/cards/makers/codercatdev" alt="codercatdev's Maker Card" />
+</a>
