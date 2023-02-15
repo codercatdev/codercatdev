@@ -10,10 +10,12 @@
 - 📫 How to reach me: [@codercatdev](https://twitter.com/codercatdev)
 - ⚡ Fun fact: I once found SAP comments about Star Wars in their source code.
 
+## My Holopin Achievements
+
+[![@codercatdev's Holopin board](https://holopin.io/api/user/board?user=codercatdev)](https://holopin.io/@codercatdev)
+
+## Fun Stats
+
 [![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=codercatdev&show_icons=true&theme=radical)](https://codingcat.dev/authors/alex-patterson)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codercatdev&theme=radical)](https://codingcat.dev/authors/alex-patterson)
-
-<a href="https://makers.appwrite.io/codercatdev">
-    <img src="https://appwrite.io/cards/makers/codercatdev" alt="codercatdev's Maker Card" />
-</a>
