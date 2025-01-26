@@ -4,11 +4,14 @@
 
 - 🔭 I’m currently working on JavaScript for a 10 Year Old for [codingcat.dev](https://codingcat.dev)
 - 🌱 I’m currently learning all about SVGs
-- 👯 I’m looking to collaborate on [purrfect.dev](https://purrfect.dev)
 - 🤔 I’m looking for help with content for [codingcat.dev](https://codingcat.dev)
 - 💬 Ask me about anything!
-- 📫 How to reach me: [@codercatdev](https://twitter.com/codercatdev)
+- 📫 How to reach me: [codercat.dev](https://bsky.app/profile/codercat.dev)
 - ⚡ Fun fact: I once found SAP comments about Star Wars in their source code.
+
+## Daily.dev
+
+<a href="https://app.daily.dev/codingcatdev"><img src="https://api.daily.dev/devcards/v2/m7Z6H7R0hwoOhyQZ1WW7K.png?r=su3" width="356" alt="Alex Patterson's Dev Card"/></a>
 
 ## My Holopin Achievements
 
